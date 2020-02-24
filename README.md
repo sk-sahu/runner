@@ -1,4 +1,4 @@
-# runner
+# RunneR (Run-R)
 Ready to use Running R Instances
 
 ## Powered by Binder
